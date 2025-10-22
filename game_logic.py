@@ -2,7 +2,7 @@ import stages
 import random
 
 # List of secret words
-WORDS = ["git", "github", "python", "snowman", "meltdown"]
+WORDS = ["git", "github", "pythonic", "snowman", "meltdowns"]
 
 def get_random_word():
 	"""Selects a random word from the list."""
